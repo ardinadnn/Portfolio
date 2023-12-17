@@ -1,9 +1,6 @@
 title: Portfolio # your name (or website title) here
-logo:
-  path: "/img/profil.jpg?raw=true"
-  width: 20
-  height: 20
-  
+logo: "/img/profil.jpg?raw=true"
+
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
   I am a fresh graduate from Universitas Airlangga, holding a degree in Information Systems.
