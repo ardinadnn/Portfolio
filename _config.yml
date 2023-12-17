@@ -2,13 +2,10 @@ title: Portfolio # your name (or website title) here
 logo: "/img/profil.jpg?raw=true"
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br><br>
   I am a fresh graduate from Universitas Airlangga, holding a degree in Information Systems.
   I am a data-driven individual with a strong eagerness to acquire new skills. My focus lies in the data-related field. 
   <br><br>
-  <a href="https://www.linkedin.com/in/ardina-dana-nugraha-03a47b249/">LinkedIn</a>
-  <br><br>
-  <a href="https://github.com/ardinadnn/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ardina-dana-nugraha-03a47b249/">LinkedIn</a> | <a href="https://github.com/ardinadnn/">LinkedIn</a>
 
 remote_theme: yaoyao-liu/minimal
 
@@ -21,3 +18,6 @@ enable_footnote: false
 
 auto_dark_mode: true
 #show_downloads: true
+
+github:
+  is_project_page: false
