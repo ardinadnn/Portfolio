@@ -1,8 +1,8 @@
-# <b>Data Science Portfolio</b>
+# <center><b>Data Science Portfolio</b></center>
 
 ---
 
-## <font color= "#3e9ecf"><b>Dashboard</b></font>
+## <center><font color= "#3e9ecf"><b>Dashboard</b></font></center>
 ### 1. Telkomsel Revenue Dashboard
 [![Google Drive](https://img.shields.io/badge/Google_Drive-View_Dashboard-21a363?logo=googledrive&logoColor=21a363)](https://drive.google.com/file/d/1zN86Nbfcy1rzwMLhCj2OgSXh_7VJCwoK/view?usp=sharing)
 <div style="text-align: justify">
@@ -30,7 +30,7 @@ A Superstore Sales Dashboard was developed utilizing Tableau, encompassing data 
 
 ---
 
-## <font color= "#3e9ecf"><b>Image Processing</b></font>
+## <center><font color= "#3e9ecf"><b>Image Processing</b></font></center>
 
 ### 1. Rupiah Paper Currency Recognition Using Image Currency Recognition and CNN
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-white?logo=GitHub)](https://github.com/ardinadnn/Rupiah-PCR-Using-Image-Processing-and-CNN)
@@ -40,7 +40,6 @@ This project combined various hyperparameters: epoch, batch size, learning rate,
 - **Image processing**:
     - Image Enhancement: Histogram Equalization 
     - Image segmentation: Otsu Method
-
 - **Classification**: VGG-16 and VGG-19 model
 <div style="text-align: center">
 <img src="img/img_rupiah_pcr.png" alt="alt text" width="whatever" height="whatever"> </div>
@@ -56,7 +55,7 @@ This project aimed to categorize images into three classes: rock, paper, and sci
 
 ---
 
-## <font color= "#3e9ecf"><b>Natural Language Processing (NLP)</b></font>
+## <center><font color= "#3e9ecf"><b>Natural Language Processing (NLP)</b></font></center>
 
 ### 1. Health Dataset Clustering
 [![View on Google Colab](https://img.shields.io/badge/Colab-View_on_Google_Colab-FDBA18?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1tIWxXAL4-2iD_XLKtZon-kwfUSOUv1kD?usp=sharing) | [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-white?logo=GitHub)](https://github.com/ardinadnn/portfolio/tree/main/nlp/health-dataset-clustering)
@@ -78,7 +77,7 @@ In this project, emotion classification encompassing joy, anger, and fear was un
 
 ---
 
-## <font color= "#3e9ecf"><b>Machine Learning</b></font>
+## <center><font color= "#3e9ecf"><b>Machine Learning</b></font></center>
 
 ### 1. Mobile Price Prediction
 [![Google Drive](https://img.shields.io/badge/Google_Drive-View_Project-21a363?logo=googledrive&logoColor=21a363)](https://drive.google.com/drive/folders/10icuAw3Z4OCxbKKzk5PgmxSkkE_GRtzp?usp=sharing)
