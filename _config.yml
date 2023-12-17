@@ -1,13 +1,13 @@
 title: Portfolio # your name (or website title) here
-logo: "/img/profil.jpg?raw=true" # your photo (or logo) here
+logo: "/img/profil.jpg?raw=true" <!-- width="20" height="20" --> # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br><br>
   I am a fresh graduate from Universitas Airlangga, holding a degree in Information Systems.
-  I am a data-driven individual with a strong eagerness to acquire new skills, particularly information technology and business.
-  My focus lies in the data-related field, encompassing areas such as data analysis and data science. I am adept at working effectively both independently and collaboratively in group tasks.
+  I am a data-driven individual with a strong eagerness to acquire new skills. My focus lies in the data-related field. 
   <br><br>
-   
+  <a href="https://www.linkedin.com/in/ardina-dana-nugraha-03a47b249/">LinkedIn</a>
   <br><br>
-  <a href="https://www.linkedin.com/in/ardina-dana-nugraha-03a47b249/">LinkedIn</a> |  <a href="https://github.com/ardinadnn/">LinkedIn</a>
+  <a href="https://github.com/ardinadnn/">LinkedIn</a>
 
 remote_theme: yaoyao-liu/minimal
 
