@@ -1,21 +1,23 @@
 title: Portfolio # your name (or website title) here
-#logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/img/profil.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  
+I am a fresh graduate from Universitas Airlangga, holding a degree in Information Systems.
+I am a data-driven individual with a strong eagerness to acquire new skills, particularly information technology and business.
+My focus lies in the data-related field, encompassing areas such as data analysis and data science. I am adept at working effectively both independently and collaboratively in group tasks.
   <br><br>
-  Second description 
+  #Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/ardina-dana-nugraha-03a47b249/">LinkedIn</a> |  <a href="https://github.com/ardinadnn/">LinkedIn</a>
 
-remote_theme: yaoyao-liu/minimal-light
+remote_theme: yaoyao-liu/minimal
 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
-markdown: Ardina Dana Nugraha
+enable_footnote: false
 
 auto_dark_mode: true
 #show_downloads: true
