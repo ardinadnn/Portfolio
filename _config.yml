@@ -1,11 +1,15 @@
-title: Ardina Dana Nugraha # your name (or website title) here
+title: <p align="center"> Ardina Dana Nugraha </p>
 logo: "/img/profil.png?raw=true"
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <p align="justify">
   I am a fresh graduate from Universitas Airlangga, holding a degree in Information Systems.
-  I am a data-driven individual with a strong eagerness to acquire new skills. My focus lies in the data-related field. 
+  I am a data-driven individual with a strong eagerness to acquire new skills. My focus lies in the data-related field, especially data analysis.
+  </p>
   <br><br>
+  <p align="center">
   <a href="https://www.linkedin.com/in/ardina-dana-nugraha-03a47b249/">LinkedIn</a> | <a href="https://github.com/ardinadnn/">Github</a>
+  </p>
 
 remote_theme: yaoyao-liu/minimal
 
