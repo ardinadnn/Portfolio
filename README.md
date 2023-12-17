@@ -1,4 +1,4 @@
-<b>Data Science Portfolio</b>
+# <b>Data Science Portfolio</b>
 
 ---
 
@@ -35,13 +35,13 @@ A Superstore Sales Dashboard was developed utilizing Tableau, encompassing data 
 ### 1. Rupiah Paper Currency Recognition Using Image Currency Recognition and CNN
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-white?logo=GitHub)](https://github.com/ardinadnn/Rupiah-PCR-Using-Image-Processing-and-CNN)
 <div style="text-align: justify">
-This project combined various hyperparameters: epoch, batch size, learning rate, dropout rate. The scanned dataset consisted of normal, scuffed, dirty, torn, and blurred 2016 and 2022 emision years banknotes. This study showed that VGG-16 with image processing gave the best results with the highest accuracy of 91.43%. VGG-16 with image processing gives the best average accuracy of 57.28%. VGG-19 with image processing followed with an average accuracy of 55.55%, followed by VGG-16 without image processing at 53.90%, and VGG-19 without image processing at 45.23%.
+This project combined various hyperparameters: epoch, batch size, learning rate, dropout rate. The scanned dataset consisted of normal, scuffed, dirty, torn, and blurred 2016 and 2022 emision years banknotes. This study showed that VGG-16 with image processing gave the best results with the highest accuracy of 91.43%. VGG-16 with image processing gives the best average accuracy of 57.28%. VGG-19 with image processing followed with an average accuracy of 55.55%, followed by VGG-16 without image processing at 53.90%, and VGG-19 without image processing at 45.23%.</div>
 
 - **Image processing**:
     - Image Enhancement: Histogram Equalization 
     - Image segmentation: Otsu Method
 
-- **Classification**: VGG-16 and VGG-19 model</div>
+- **Classification**: VGG-16 and VGG-19 model
 <div style="text-align: center">
 <img src="img/img_rupiah_pcr.png" alt="alt text" width="whatever" height="whatever"> </div>
 
