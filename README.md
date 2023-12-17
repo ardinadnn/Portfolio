@@ -1,5 +1,6 @@
 # Data Science Portfolio
 ---
+
 ## <u><b>Dashboard</b></u>
 ### 1. Telkomsel Revenue Dashboard
 [![Google Drive](https://img.shields.io/badge/Google_Drive-View_Dashboard-21a363?logo=googledrive&logoColor=21a363)](https://drive.google.com/file/d/1zN86Nbfcy1rzwMLhCj2OgSXh_7VJCwoK/view?usp=sharing)
@@ -9,6 +10,7 @@ This is my project during internship at PT Telekomunikasi Selular (Telkomsel), J
 <img src="img/Dashboard_Telkomsel.png" alt="alt text" width="whatever" height="whatever"> </div>
 
 ---
+
 ### 2. Bike Sharing Dashboard
 [![Streamlit](https://img.shields.io/badge/Streamlit-View_Dashboard-ff4b4b?logo=streamlit&logoColor=ff4b4b)](https://ardinadnn-bikesharing.streamlit.app/) [![View on Google Colab](https://img.shields.io/badge/Colab-View_on_Google_Colab-FDBA18?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1EOf9-1MKXynXWX8p84OgQ6R0FZ_KYi1d?usp=sharing) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-white?logo=GitHub)](https://github.com/ardinadnn/bikesharing/tree/main)
 <div style="text-align: justify">
@@ -17,6 +19,7 @@ I constructed a dashboard using Python with streamlit library. Data wrangling, d
 <img src="img/Dashboard_Bike Sharing - Streamlit.png" alt="alt text" width="whatever" height="whatever"> </div>
 
 ---
+
 ## <u><b>Image Processing</b></u>
 
 ### 1. Rupiah Paper Currency Recognition Using Image Currency Recognition and CNN
@@ -27,11 +30,13 @@ This project combined various hyperparameters: epoch, batch size, learning rate,
 - **Image processing**:
     - Image Enhancement: Histogram Equalization 
     - Image segmentation: Otsu Method
+    
 - **Classification**: VGG-16 and VGG-19 model</div>
 <div style="text-align: center">
 <img src="img/img_rupiah_pcr.png" alt="alt text" width="whatever" height="whatever"> </div>
 
 ---
+
 ### 2. Rock, Paper, Scissor Classification
 [![View on Google Colab](https://img.shields.io/badge/Colab-View_on_Google_Colab-FDBA18?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1bwdbeLbFHCo8UXo4bbppAflDq6mZGRT6?usp=sharing)
 <div style="text-align: justify">
@@ -51,6 +56,7 @@ This project used text dataset comprising records of patient consultations with 
 <img src="img/nlp_health_dataset.png" alt="alt text" width="whatever" height="whatever"> </div>
 
 ---
+
 ### 2. Emotion Detection
 [![View on Google Colab](https://img.shields.io/badge/Colab-View_on_Google_Colab-FDBA18?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1GkY4fFa1KEO5bGpOct391d0jS4uzkM0u?usp=sharing)
 <div style="text-align: justify">
@@ -59,4 +65,5 @@ In this project, emotion classification encompassing joy, anger, and fear was un
 <img src="img/nlp_emotion.png" alt="alt text" width="whatever" height="whatever"> </div>
 
 ---
+
 ## <u><b>Machine Learning</b></u>
