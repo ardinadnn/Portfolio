@@ -1,4 +1,5 @@
 <b>Data Science Portfolio</b>
+
 ---
 
 ## <font color= "#3e9ecf"><b>Dashboard</b></font>
@@ -94,3 +95,7 @@ This project used random forest method with Python. The workflow involved initia
 This project used genetic algorithm to ascertain the optimal route of ice tube delivery. Steps conducted in this project are initialization, population selection, modelling, evaluation and regeneration, and elitism. The entire process was executed utilizing Matlab as the primary tool.</div>
 <div style="text-align: center">
 <img src="img/ml_ice_tube.png" alt="alt text" width="whatever" height="whatever"> </div>
+
+---
+
+<center>© 2023 Ardina Dana Nugraha. Powered by Jekyll and the Minimal Theme.</center>
