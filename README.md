@@ -30,7 +30,7 @@ This project combined various hyperparameters: epoch, batch size, learning rate,
 - **Image processing**:
     - Image Enhancement: Histogram Equalization 
     - Image segmentation: Otsu Method
-    
+
 - **Classification**: VGG-16 and VGG-19 model</div>
 <div style="text-align: center">
 <img src="img/img_rupiah_pcr.png" alt="alt text" width="whatever" height="whatever"> </div>
@@ -51,19 +51,37 @@ This project classified images into rock, paper, and scissor. The sequence model
 ### 1. Health Dataset Clustering
 [![View on Google Colab](https://img.shields.io/badge/Colab-View_on_Google_Colab-FDBA18?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1tIWxXAL4-2iD_XLKtZon-kwfUSOUv1kD?usp=sharing) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-white?logo=GitHub)](https://github.com/ardinadnn/portfolio/tree/main/nlp/health-dataset-clustering)
 <div style="text-align: justify">
-This project used text dataset comprising records of patient consultations with their doctor. Sastrawi Stemmer were applied due to the dataset being in Bahasa Indonesia. Elbow method showed that the optimal k = 5, hence there are 25 clusters.</d>
+This project used text dataset comprising records of patient consultations with their doctor. Sastrawi Stemmer were applied due to the dataset being in Bahasa Indonesia. Elbow method showed that the optimal k = 5, hence there are 25 clusters.</div>
 <div style="text-align: center">
 <img src="img/nlp_health_dataset.png" alt="alt text" width="whatever" height="whatever"> </div>
 
 ---
 
 ### 2. Emotion Detection
+
 [![View on Google Colab](https://img.shields.io/badge/Colab-View_on_Google_Colab-FDBA18?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1GkY4fFa1KEO5bGpOct391d0jS4uzkM0u?usp=sharing)
+
 <div style="text-align: justify">
-In this project, emotion classification encompassing joy, anger, and fear was undertaken. A sequential model consisting a Long Short-Term Memory (LSTM) network was constructed. The model achieved an impressive accuracy of 99.16%, with a validation accuracy of 92.17% recorded at the ninth epoch.</d>
+In this project, emotion classification encompassing joy, anger, and fear was undertaken. A sequential model consisting a Long Short-Term Memory (LSTM) network was constructed. The model achieved an impressive accuracy of 99.16%, with a validation accuracy of 92.17% recorded at the ninth epoch.</div>
 <div style="text-align: center">
 <img src="img/nlp_emotion.png" alt="alt text" width="whatever" height="whatever"> </div>
 
 ---
 
 ## <u><b>Machine Learning</b></u>
+
+### 1. Mobile Price Prediction
+[![Google Drive](https://img.shields.io/badge/Google_Drive-View_Project-21a363?logo=googledrive&logoColor=21a363)](https://drive.google.com/drive/folders/10icuAw3Z4OCxbKKzk5PgmxSkkE_GRtzp?usp=sharing)
+<div style="text-align: justify">
+This project used random forest method with Python. Data preprocessing was applied, followed by Exploratory Data Analysis (EDA), Feature Selection, and Random Forest. This project used various ratio of splitting dataset. This project showed that the best ratio for splitting this dataset was 80:20. </div>
+<div style="text-align: center">
+<img src="img/ml_mobile price pred.png" alt="alt text" width="whatever" height="whatever"> </div>
+
+---
+
+### 2. Determining the Route of Ice Tube Delivery
+[![Google Drive](https://img.shields.io/badge/Google_Drive-View_Project-21a363?logo=googledrive&logoColor=21a363)](https://drive.google.com/drive/folders/1qXHiWGGSQ4-b9uMkyX3502iq8CqSuMrH?usp=sharing)
+<div style="text-align: justify">
+This project used genetic algorithm to determine the optimal route of ice tube delivery. Steps conducted in this project are inisialization, population selection, modelling, evaluation and regeneration, and elitism. Tool used was Matlab.</div>
+<div style="text-align: center">
+<img src="img/ml_ice_tube.png" alt="alt text" width="whatever" height="whatever"> </div>
