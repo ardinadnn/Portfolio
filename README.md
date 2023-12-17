@@ -1,7 +1,7 @@
-# Data Science Portfolio
+# <div style="text-align: center">Data Science Portfolio</div>
 ---
 
-## <u><b>Dashboard</b></u>
+## <div style="text-align: center"><font color= "#3e9ecf"><b>Dashboard</b></font></div>
 ### 1. Telkomsel Revenue Dashboard
 [![Google Drive](https://img.shields.io/badge/Google_Drive-View_Dashboard-21a363?logo=googledrive&logoColor=21a363)](https://drive.google.com/file/d/1zN86Nbfcy1rzwMLhCj2OgSXh_7VJCwoK/view?usp=sharing)
 <div style="text-align: justify">
@@ -29,7 +29,7 @@ A Superstore Sales Dashboard was developed utilizing Tableau, encompassing data 
 
 ---
 
-## <u><b>Image Processing</b></u>
+## <div style="text-align: center"><font color= "#3e9ecf"><b>Image Processing</b></font></div>
 
 ### 1. Rupiah Paper Currency Recognition Using Image Currency Recognition and CNN
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-white?logo=GitHub)](https://github.com/ardinadnn/Rupiah-PCR-Using-Image-Processing-and-CNN)
@@ -55,7 +55,7 @@ This project aimed to categorize images into three classes: rock, paper, and sci
 
 ---
 
-## <u><b>Natural Language Processing (NLP)</b></u>
+## <div style="text-align: center"><font color= "#3e9ecf"><b>Natural Language Processing (NLP)</b></font></div>
 
 ### 1. Health Dataset Clustering
 [![View on Google Colab](https://img.shields.io/badge/Colab-View_on_Google_Colab-FDBA18?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1tIWxXAL4-2iD_XLKtZon-kwfUSOUv1kD?usp=sharing) | [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-white?logo=GitHub)](https://github.com/ardinadnn/portfolio/tree/main/nlp/health-dataset-clustering)
@@ -77,7 +77,7 @@ In this project, emotion classification encompassing joy, anger, and fear was un
 
 ---
 
-## <u><b>Machine Learning</b></u>
+## <div style="text-align: center"><font color= "#3e9ecf"><b>Machine Learning</b></font></div>
 
 ### 1. Mobile Price Prediction
 [![Google Drive](https://img.shields.io/badge/Google_Drive-View_Project-21a363?logo=googledrive&logoColor=21a363)](https://drive.google.com/drive/folders/10icuAw3Z4OCxbKKzk5PgmxSkkE_GRtzp?usp=sharing)
