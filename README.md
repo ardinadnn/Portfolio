@@ -51,7 +51,9 @@ This project combined various hyperparameters: epoch, batch size, learning rate,
 
 <div style="text-align: justify">
 
-Malaria Cell Classification aimed to classify malaria into two classes: Infected and Uninfected. Method used was Convolutional Neural Network (CNN).The model is saved as .tflite and deployed as [apk](https://github.com/ardinadnn/Malaria-Cell-Classification/blob/main/Ardina%20Dana%20Nugraha_Malaria%20Cell%20Classification.apk). </div>
+Malaria Cell Classification aimed to classify malaria into two classes: Infected and Uninfected. Method used was Convolutional Neural Network (CNN).The model is saved as .tflite and deployed as [apk](https://github.com/ardinadnn/Malaria-Cell-Classification/blob/main/Ardina%20Dana%20Nugraha_Malaria%20Cell%20Classification.apk).
+
+</div>
 
 <div style="text-align: center">
 <img src="img/img_malaria1.jpeg" alt="alt text" width="200" height="whatever"><img src="img/img_malaria2.jpeg" alt="alt text" width="200" height="whatever"></div>
