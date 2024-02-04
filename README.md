@@ -46,12 +46,15 @@ This project combined various hyperparameters: epoch, batch size, learning rate,
 
 ---
 
-### 2. Rock, Paper, Scissor Classification
-[![View on Google Colab](https://img.shields.io/badge/Colab-View_on_Google_Colab-FDBA18?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1bwdbeLbFHCo8UXo4bbppAflDq6mZGRT6?usp=sharing)
+### 2. Malaria Cell Classification
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-white?logo=GitHub)](https://github.com/ardinadnn/Malaria-Cell-Classification)
+
 <div style="text-align: justify">
-This project aimed to categorize images into three classes: rock, paper, and scissors. The implemented sequence model demonstrated remarkable performance, achieving an overall accuracy of 98.7% and a validation accuracy of 97.72%.</div>
+
+Malaria Cell Classification aimed to classify malaria into two classes: Infected and Uninfected. Method used was Convolutional Neural Network (CNN).The model is saved as .tflite and deployed as [apk](https://github.com/ardinadnn/Malaria-Cell-Classification/blob/main/Ardina%20Dana%20Nugraha_Malaria%20Cell%20Classification.apk). </div>
+
 <div style="text-align: center">
-<img src="img/img_rockpaperscissor.png" alt="alt text" width="whatever" height="whatever"></div>
+<img src="img/img_malaria1.jpeg" alt="alt text" width="200" height="whatever"><img src="img/img_malaria2.jpeg" alt="alt text" width="200" height="whatever"></div>
 
 ---
 
@@ -74,6 +77,18 @@ This project used text dataset comprising records of patient consultations with 
 In this project, emotion classification encompassing joy, anger, and fear was undertaken. A sequential model consisting a Long Short-Term Memory (LSTM) network was constructed. The model achieved an impressive accuracy of 99.16%, with a validation accuracy of 92.17% recorded at the ninth epoch.</div>
 <div style="text-align: center">
 <img src="img/nlp_emotion.png" alt="alt text" width="whatever" height="whatever"> </div>
+
+---
+### 3. Data Cleansing API
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-white?logo=GitHub)](https://github.com/ardinadnn/23001063-17-adn-DataCleanser-gold)
+
+<div style="text-align: justify">
+Data Cleanser is an API made using Flasgger. It aimed to cleanse data (specifically X or Twitter data), such as removing punctuations and removing whitespace. After being cleansed, the data will be visualized through pie chart, bar chart, and wordcloud to help user gain insights. </div>
+<div style="text-align: center">
+<img src="img/nlp_data_cleanse2.png" alt="alt text" width="whatever" height="whatever"> </div>
+<div style="text-align: center">
+<img src="img/nlp_data_cleanse.png" alt="alt text" width="whatever" height="whatever"> </div>
 
 ---
 
