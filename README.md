@@ -21,12 +21,13 @@ A bike sharing dashboard was constructed using Python with streamlit library. Th
 
 ---
 
-### 3. Superstore Sales Dashboard
+### 3. Jaya Jaya Maju Attrition Rate Dashboard
+[![Tableau](https://img.shields.io/badge/Tableau-View_Dashboard-0987fb?logo=tableau&logoColor=0987fb)](https://public.tableau.com/shared/8GRZXGW7R?:display_count=n&:origin=viz_share_link)
 <div style="text-align: justify">
-A Superstore Sales Dashboard was developed utilizing Tableau, encompassing data on sales and profits within the Superstore. It consisted of sales and profit of Superstore. Through the analysis using the dashboard, it is evident that sales exhibited a noteworthy improvement in the month of June, irrespective of the year. Notably, the most prominently sold item during this period was phones.
+This is my submission during data science learning path in ID Camp. An attrition rate dashboard for virtual company, Jaya Jaya Maju, was developed utilizing Tableau. The dashboard suggests that the company should provide guidance and evaluation for job level 1 (such as ensuring that facilities are provided appropriately and ensuring that the employees adapt and feel comfortable within the company), allocate a greater portion of job involvement at job level 5, investigate the Sales department (which may include surveys, personal interviews with employees, or evaluations, followed by devising solutions to address identified issues), and reevaluate department managers, especially Human Resources, to monitor their performance.  
 </div>
 <div style="text-align: center">
-<img src="img/Dashboard_superstore_sales.png" alt="alt text" width="whatever" height="whatever"> </div>
+<img src="img/Dashboard_Jaya Jaya Maju.png" alt="alt text" width="whatever" height="whatever"> </div>
 
 ---
 
