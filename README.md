@@ -12,12 +12,12 @@ This is my project during internship at PT Telekomunikasi Selular (Telkomsel), J
 
 ---
 
-### 2. Bike Sharing Dashboard
-[![Streamlit](https://img.shields.io/badge/Streamlit-View_Dashboard-ff4b4b?logo=streamlit&logoColor=ff4b4b)](https://ardinadnn-bikesharing.streamlit.app/) | [![View on Google Colab](https://img.shields.io/badge/Colab-View_on_Google_Colab-FDBA18?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1EOf9-1MKXynXWX8p84OgQ6R0FZ_KYi1d?usp=sharing) | [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-white?logo=GitHub)](https://github.com/ardinadnn/bikesharing/tree/main)
+### 2. Jaya Jaya Institute Student Performance Dashboard
+[![Streamlit](https://img.shields.io/badge/Streamlit-View_Dashboard-ff4b4b?logo=streamlit&logoColor=ff4b4b)](https://ardinadnn-student-performance.streamlit.app/) | [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-white?logo=GitHub)](https://github.com/ardinadnn/Student-Performance)
 <div style="text-align: justify">
-A bike sharing dashboard was constructed using Python with streamlit library. The development process encompassed essential stages, including data wrangling, data cleaning, Exploratory Data Analysis (EDA), and the creation of insightful data visualizations.</div>
-<div style="text-align: center">
-<img src="img/Dashboard_Bike Sharing - Streamlit.png" alt="alt text" width="whatever" height="whatever"> </div>
+A student performance dashboard was constructed using Python with streamlit library. The development process encompassed essential stages, including data wrangling, data cleaning, Exploratory Data Analysis (EDA), and the creation of insightful data visualizations. Aside from dashboard, this project also consisted of prediction which was also deployed on streamlit (accessible through taskbar on the left). This project aims to reduce the dropout rate of Jaya Jaya Institute. The dashboard suggests that the institute should reconsider the tuition fees update, supervise students with score decline, provide more scholarship, and evaulate every course (particularly Biofuel Production Technologies).</div>
+
+<div style="text-align: center"><img src="img\Dashboard_Jaya Jaya Institute.png" alt="alt text" width="whatever" height="whatever"> </div>
 
 ---
 
